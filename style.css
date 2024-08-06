@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+  margin-top: 10px;
+}
+
+#color-box {
+  width: 200px;
+  height: 200px;
+  background-color: #3498db; /* Default color */
+  margin: 20px auto;
+  border: 2px solid #2980b9;
+}
+#change-color-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #2980b9;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
